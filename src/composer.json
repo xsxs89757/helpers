@@ -1,0 +1,13 @@
+{
+  "name": "qifen/helpers",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Qifen\\Helpers\\": "src"
+    }
+  }
+}
